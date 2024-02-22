@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Soal 1
+Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
 
-## Getting Started
+TypeScript :
+TypeScript adalah sebuah bahasa pemrograman yang merupakan superset (subset yang lebih luas) dari JavaScript. Dikembangkan oleh Microsoft, TypeScript dirancang untuk memperluas fungsionalitas JavaScript dengan menambahkan fitur-fitur tipe statis. Artinya, TypeScript memungkinkan pengembang untuk mendeklarasikan jenis data dari suatu variabel, parameter fungsi, properti objek, dan lainnya.
 
-First, run the development server:
+ESLint :
+ESLint adalah sebuah alat linting (pemeriksa kode) untuk JavaScript. Tujuan utamanya adalah untuk membantu pengembang menemukan dan memperbaiki pola kode yang tidak diinginkan atau potensi bug dalam kode JavaScript. ESLint memungkinkan pengguna untuk mengonfigurasi aturan linting sesuai dengan preferensi dan standar proyek mereka.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tailwind CSS :
+Tailwind CSS adalah suatu framework CSS yang bersifat utility-first, yang dirancang untuk mempermudah pembuatan antarmuka pengguna (UI) dengan memberikan sejumlah besar kelas utilitas yang dapat diterapkan langsung pada elemen HTML. Berbeda dengan pendekatan tradisional menggunakan CSS yang memerlukan penulisan gaya stylesheet khusus untuk setiap elemen, Tailwind memanfaatkan kelas-kelas utilitas untuk mengatur tampilan dan perilaku elemen.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+App Router :
+App Router adalah sistem routing yang disediakan oleh Next.js untuk mengelola navigasi antar halaman dalam aplikasi web Next.js Anda. Dengan menggunakan App Router, Anda dapat membuat aplikasi web yang dinamis dengan mudah, di mana setiap halaman dapat memiliki rutenya sendiri.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Import alias :
+Import alias (alias impor) adalah cara untuk memberikan nama singkat atau alternatif untuk impor suatu modul atau pustaka dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang memberikan nama yang lebih mudah atau lebih singkat saat mengacu pada modul atau pustaka tertentu, sehingga memudahkan pengelolaan kode dan meningkatkan keterbacaan.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Soal 2
+ ## Folder:
 
-## Learn More
+.git: Folder ini berisi informasi tentang kontrol versi Git untuk proyek. Ini termasuk riwayat komit, cabang, dan tag.
 
-To learn more about Next.js, take a look at the following resources:
+.next: Folder ini digunakan oleh Next.js untuk menyimpan file build aplikasi.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+assets: Folder ini berisi aset statis untuk aplikasi, seperti gambar, font, dan CSS.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+node_modules: Folder ini berisi dependensi Node.js untuk aplikasi.
 
-## Deploy on Vercel
+public: Folder ini berisi file statis yang akan disajikan langsung ke pengguna.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+src: Folder ini berisi kode sumber untuk aplikasi.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## File:
+
+.eslintrc.json: File ini berisi konfigurasi untuk ESLint, alat linting statis untuk JavaScript.
+
+.gitignore: File ini berisi daftar file yang tidak ingin dilacak oleh Git.
+
+next.config.mjs: File ini berisi konfigurasi untuk Next.js.
+
+next-env.d.ts: File ini berisi deklarasi tipe untuk variabel lingkungan Next.js.
+
+package.json: File ini berisi informasi tentang paket npm, termasuk nama, versi, dependensi, dan skrip.
+
+package-lock.json: File ini berisi daftar dependensi npm yang diinstal untuk proyek, beserta versi spesifiknya.
+
+postcss.config.js: File ini berisi konfigurasi untuk PostCSS, alat pemrosesan CSS.
+
+README.md: File ini berisi informasi tentang proyek, seperti README.
+
+tailwind.config.ts: File ini berisi konfigurasi untuk Tailwind CSS, framework CSS.
+
+tsconfig.json: File ini berisi konfigurasi untuk TypeScript.
+# Soal 3
+# Soal 4
+# Soal 5
+# Soal 6
