@@ -53,6 +53,7 @@ tailwind.config.ts: File ini berisi konfigurasi untuk Tailwind CSS, framework CS
 
 tsconfig.json: File ini berisi konfigurasi untuk TypeScript.
 # Soal 3
+![sekarep](assets/02.png)
 # Soal 4
 # Soal 5
 # Soal 6
