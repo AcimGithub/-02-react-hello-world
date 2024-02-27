@@ -16,6 +16,24 @@ App Router adalah sistem routing yang disediakan oleh Next.js untuk mengelola na
 Import alias :
 Import alias (alias impor) adalah cara untuk memberikan nama singkat atau alternatif untuk impor suatu modul atau pustaka dalam kode JavaScript atau TypeScript. Ini memungkinkan pengembang memberikan nama yang lebih mudah atau lebih singkat saat mengacu pada modul atau pustaka tertentu, sehingga memudahkan pengelolaan kode dan meningkatkan keterbacaan.
 
+React:
+
+Deskripsi: React adalah perpustakaan JavaScript yang digunakan untuk membangun antarmuka pengguna (UI) dalam aplikasi web.
+Fokus Utama: React berfokus pada pembangunan komponen UI yang dapat di-render secara dinamis berdasarkan perubahan dalam data aplikasi.
+Keunggulan: Fleksibilitas dalam membangun UI, komunitas besar, dan dukungan dari Facebook.
+
+Gatsby:
+
+Deskripsi: Gatsby adalah kerangka kerja statis yang menggunakan React untuk membangun situs web yang sangat cepat dan efisien.
+Fokus Utama: Gatsby dirancang untuk menghasilkan situs web statis dengan performa tinggi dengan menggunakan pre-rendering dan teknologi pengoptimalan lainnya.
+Keunggulan: Kecepatan, SEO yang lebih baik, dan kemampuan untuk mengintegrasikan sumber data dari berbagai sumber.
+
+Remix:
+
+Deskripsi: Remix adalah kerangka kerja yang dibangun di atas React untuk memfasilitasi pengembangan aplikasi web dengan performa tinggi dan pengalaman pengembangan yang lebih baik.
+Fokus Utama: Remix mengutamakan performa tinggi, pengelolaan state yang lebih baik, dan pengalaman pengembangan yang ramah.
+Keunggulan: Dukungan routing yang kuat, manajemen state yang canggih, dan fokus pada performa dan pengalaman pengembangan yang baik.
+
 # Soal 2
  ## Folder:
 
