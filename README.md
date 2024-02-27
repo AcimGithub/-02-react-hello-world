@@ -23,13 +23,13 @@ Fokus Utama: React berfokus pada pembangunan komponen UI yang dapat di-render se
 Keunggulan: Fleksibilitas dalam membangun UI, komunitas besar, dan dukungan dari Facebook.
 
 Gatsby:
-
+![sekarep](assets/gatsby.jpg)
 Deskripsi: Gatsby adalah kerangka kerja statis yang menggunakan React untuk membangun situs web yang sangat cepat dan efisien.
 Fokus Utama: Gatsby dirancang untuk menghasilkan situs web statis dengan performa tinggi dengan menggunakan pre-rendering dan teknologi pengoptimalan lainnya.
 Keunggulan: Kecepatan, SEO yang lebih baik, dan kemampuan untuk mengintegrasikan sumber data dari berbagai sumber.
 
 Remix:
-
+![sekarep](assets/remix.jpg)
 Deskripsi: Remix adalah kerangka kerja yang dibangun di atas React untuk memfasilitasi pengembangan aplikasi web dengan performa tinggi dan pengalaman pengembangan yang lebih baik.
 Fokus Utama: Remix mengutamakan performa tinggi, pengelolaan state yang lebih baik, dan pengalaman pengembangan yang ramah.
 Keunggulan: Dukungan routing yang kuat, manajemen state yang canggih, dan fokus pada performa dan pengalaman pengembangan yang baik.
