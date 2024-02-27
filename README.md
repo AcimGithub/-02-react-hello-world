@@ -53,6 +53,10 @@ tailwind.config.ts: File ini berisi konfigurasi untuk Tailwind CSS, framework CS
 
 tsconfig.json: File ini berisi konfigurasi untuk TypeScript.
 # Soal 3
+![sekarep](assets/02.png)
 # Soal 4
+Terdapat perubahan, karena saya mengisikan sebuah text berupa nama dan nim saya pada komponen MyTextNimName(), maka akan muncul nama dan nim saya apabila komponen MyTextNimName() dipanggil.
 # Soal 5
+Tidak ada perubahan tampilan, karena memanggil komponen Mypage() yang secara keseluruhan isinya sama persis dengan Home().
 # Soal 6
+![bole](assets/profile.png)
